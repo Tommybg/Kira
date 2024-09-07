@@ -7,3 +7,5 @@
 <h2 style="color: #EAB8E4;">Estudia con Kira subiendo tus archivos, PDFs, presentaciones y más.
 .</h2>
 
+https://github.com/user-attachments/assets/d4a556cb-a11c-49e7-83e6-655fc7b4981e 
+
