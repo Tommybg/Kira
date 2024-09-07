@@ -1,9 +1,9 @@
-<div class="chat-message bot">
-    <div class="avatar">
-        <img src="https://i.ibb.co/CV07hkZ/3d-augmented-graphical-elements-pertaining-female-ai-chatbot-553012-30696.png">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="overflow: hidden; border-radius: 50%; width: 100px; height: 100px;">
+        <img src="https://i.ibb.co/CV07hkZ/3d-augmented-graphical-elements-pertaining-female-ai-chatbot-553012-30696.png" style="width: 100%; height: auto;">
     </div>
-    <div class="message">{{MSG}}</div>
 </div>
+
 
 # Kira Your personalized chatbot for Students. This chatbot guides you through your Uni life. 
 
