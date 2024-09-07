@@ -7,12 +7,15 @@
 <h2 style="color: #EAB8E4;">Estudia con Kira subiendo tus archivos, PDFs, presentaciones y más.
 .</h2>
 
-<div align="center">
-    <video controls style="width: 640px; height: auto;">
-        <source src="https://github.com/user-attachments/assets/2a04440e-2b0a-4339-8fc0-8d8ac49f8069" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+https://github.com/user-attachments/assets/7cfe2c11-0fc7-4a5c-93f8-b1e20f073f98
+
+https://github.com/user-attachments/assets/ddd26250-6591-4ce3-8ecb-fd7b648e18bd
+
+
+
+
+
+
 
 
 
