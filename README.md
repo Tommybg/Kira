@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="overflow: hidden; border-radius: 50%; width: 100px; height: 100px;">
+    <div style="overflow: hidden; border-radius: 50%; width: 10px; height: 10px;">
         <img src="https://i.ibb.co/CV07hkZ/3d-augmented-graphical-elements-pertaining-female-ai-chatbot-553012-30696.png" style="width: 100%; height: auto;">
     </div>
 </div>
