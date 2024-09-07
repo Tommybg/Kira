@@ -11,19 +11,19 @@ https://github.com/user-attachments/assets/7cfe2c11-0fc7-4a5c-93f8-b1e20f073f98
 
 https://github.com/user-attachments/assets/ddd26250-6591-4ce3-8ecb-fd7b648e18bd
 
-## Para las características de RAG, utiliza una base de datos [Chroma], que es una base de datos vectorizada perfecta para dividir documentos en vectores. (Open Source) 
+## Para las características de RAG, utiliza una base de datos <a href="https://www.trychroma.com/ ">Chroma DB</a>
+, que es una base de datos vectorizada perfecta para dividir documentos en vectores. (Open Source) 
 
 # TOOLS AND PLATFORMS USED 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img alt="Python" width="40px" style="padding-right:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Streamlit" width="40px" style="padding-right:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg"/>
 </div/> 
-[Langchain] 
-[Chroma] 
 
 
-Langchain = https://www.langchain.com/ 
-Chroma = https://www.trychroma.com/ 
+<a href="https://www.langchain.com/ ">Langchain</a>
+
+<a href="https://www.trychroma.com/ ">Chroma DB</a>
 
 
 
