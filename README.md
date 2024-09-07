@@ -20,10 +20,11 @@ https://github.com/user-attachments/assets/ddd26250-6591-4ce3-8ecb-fd7b648e18bd
   <img alt="Streamlit" width="40px" style="padding-right:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg"/>
 </div/> 
 
+**and** 
 
-<a href="https://www.langchain.com/ ">Langchain</a>
+- <a href="https://www.langchain.com/ ">Langchain</a>
 
-<a href="https://www.trychroma.com/ ">Chroma DB</a>
+- <a href="https://www.trychroma.com/ ">Chroma DB</a>
 
 
 
