@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/CV07hkZ/3d-augmented-graphical-elements-pertaining-female-ai-chatbot-553012-30696.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+  <img src="https://i.ibb.co/CV07hkZ/3d-augmented-graphical-elements-pertaining-female-ai-chatbot-553012-30696.png" width="150" height="150" style="border-radius: 70%; object-fit: cover;">
 </div>
 
 
