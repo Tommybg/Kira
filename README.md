@@ -1,7 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="overflow: hidden; border-radius: 50%; width: 150px; height: 150px;">
-        <img src="https://i.ibb.co/CV07hkZ/3d-augmented-graphical-elements-pertaining-female-ai-chatbot-553012-30696.png" style="width: 100%; height: auto;">
-    </div>
+<div align="center">
+  <img src="https://i.ibb.co/CV07hkZ/3d-augmented-graphical-elements-pertaining-female-ai-chatbot-553012-30696.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 </div>
 
 
